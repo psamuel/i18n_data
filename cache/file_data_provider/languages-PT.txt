@@ -1,185 +1,185 @@
 AA;;afar
-AB;;abkhazian
-AF;;Africanos
-AK;;Africanos
-SQ;;Albanês
-AM;;Arábico
-AR;;Arábico
-AN;;Faroês
+AB;;abcázio
+AF;;africanse
+AK;;akan
+SQ;;albanês
+AM;;amárica
+AR;;arábico
+AN;;aragonês
 HY;;armênio
 AS;;assamês
-AV;;Arábico
+AV;;avar
 AE;;avéstico
-AY;;aimara
-AZ;;Azerbaijani
-BA;;bashkir
+AY;;aimará
+AZ;;azeri
+BA;;basquir
 BM;;bambara
-EU;;Basco
-BE;;Bielorusso
-BN;;Bengali
-BH;;idiomas tupi
+EU;;basco
+BE;;bielorusso
+BN;;bengalês
+BH;;biari
 BI;;bislamá
-BS;;Bósnio
-BR;;Bretão
-BG;;Búlgaro
+BS;;bósnio
+BR;;bretão
+BG;;búlgaro
 MY;;birmanês
-CA;;Catalão; Valenciano
+CA;;catalão
 CH;;chamorro
-CE;;Checheno
-ZH;;Chinês
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;chuvash
-KW;;Cores
-CO;;córsico
-CR;;Grego
-CS;;Checo
-DA;;Dinamarquês
-DV;;Divehi; Dhivehi; Maldivian
-NL;;Holandês; Flamengo
-DZ;;dzonga
-EN;;Inglês
-EO;;Esperanto
-ET;;Estoniano
-EE;;eve
-FO;;Faroês
+CE;;checheno
+ZH;;chinês
+CU;;antigo eslavo eclesiástico
+CV;;chuvacho
+KW;;córnico
+CO;;corso
+CR;;cree
+CS;;checo
+DA;;dinamarquês
+DV;;maldivense
+NL;;neerlandês
+DZ;;butanês
+EN;;inglês
+EO;;esperanto
+ET;;estoniano
+EE;;ewe
+FO;;feroico
 FJ;;fijiano
-FI;;Finlandês
-FR;;Francês
-FY;;Ucraniano
+FI;;finlandês
+FR;;francês
+FY;;frísio
 FF;;fula
 KA;;georgiano
-DE;;Alemão
-GD;;Gaélico; Gaélico Escocês
-GA;;Irlandês
-GL;;Galego
-GV;;Man
-EL;;Grego, Moderno (1453-)
+DE;;alemão
+GD;;gaélico escocês
+GA;;irlandês
+GL;;galego
+GV;;manês
+EL;;grego
 GN;;guarani
 GU;;guzerate
-HT;;Haitiano; Crioulo Haitiano
-HA;;Parar
-HE;;Hebreu
-HZ;;Hebreu
-HI;;Hindi:
-HO;;Procurar:
-HR;;Croata
-HU;;Húngaro
-IG;;ibo
-IS;;Islandês
+HT;;crioulo haitiano
+HA;;hauçá
+HE;;hebreu
+HZ;;herero
+HI;;hindi
+HO;;hiri motu
+HR;;croata
+HU;;húngaro
+IG;;igbo
+IS;;islandês
 IO;;ido
-II;;Lituano
+II;;nuosu
 IU;;inuktitut
-IE;;Renderização
-IA;;Interlingua (International Auxiliary Language Association)
-ID;;Indonésio
-IK;;Indiano
-IT;;Italiano
-JV;;Javanês
-JA;;Japonês
-KL;;Kalaallisut; Greenlandic
+IE;;interlingue (occidental)
+IA;;interlíngua (língua auxiliar internacional)
+ID;;indonésio
+IK;;iñupiaq
+IT;;italiano
+JV;;javanês
+JA;;japonês
+KL;;gronelandês
 KN;;canarês
-KS;;kashmiri
-KR;;Turco
+KS;;caxemiro
+KR;;kanuri
 KK;;cazaque
-KM;;Central Khmer
-KI;;quicuio
-RW;;kinyarwanda
+KM;;khmer (cambojano)
+KI;;kikuyu
+RW;;kinyarwanda (ruanda)
 KY;;quirguiz
 KV;;komi
 KG;;congolês
-KO;;Coreano
-KJ;;Kuanyama
-KU;;Curdo
-LO;;laosiano
-LA;;Latim
-LV;;Letão
-LI;;Limburgan; Limburger; Limburgish
-LN;;Le_gal
-LT;;Lituano
+KO;;coreano
+KJ;;cuanhama
+KU;;curdo
+LO;;laociano
+LA;;latim
+LV;;letão (letoniano)
+LI;;limburguês
+LN;;lingala
+LT;;lituano
 LB;;luxemburguês
-LU;;luba-catanga
+LU;;tshiluba (luba-kasai)
 LG;;luganda
-MK;;Macedônio
-MH;;Falso
+MK;;macedônio
+MH;;marshalês
 ML;;malaiala
-MI;;Maori
-MR;;marata
-MS;;Malaio
+MI;;maori
+MR;;marati (marata)
+MS;;malaio
 MG;;malgaxe
-MT;;Falso
+MT;;maltês
 MO;;moldávio
-MN;;Mongol
+MN;;mongol
 NA;;nauruano
-NV;;Navajo; Navaho
-NR;;ndebele, south
-ND;;ndebele, north
-NG;;dongo
-NE;;Nepalês
-NN;;Norueguês
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;Norueguês
-NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
-OJ;;ojibwa
-OR;;oriya
-OM;;de:
-OS;;Russo
-PA;;Panjabi; Punjabi
-FA;;Persa
-PI;;Polaco
-PL;;Polaco
-PT;;Português
-PS;;Pushto; Pashto
+NV;;navajo
+NR;;ndebele do sul
+ND;;sindebele
+NG;;xindonga
+NE;;nepalês (nepali)
+NN;;nynorsk (língua nova norueguesa)
+NB;;bokmål (língua norueguesa)
+NO;;norueguês
+NY;;cheua (língua nianja)
+OC;;occitânica (língua occitana)
+OJ;;ojíbua (anishinaabemowin)
+OR;;oriá
+OM;;oromo
+OS;;osseto
+PA;;panjabi
+FA;;parse (língua persa)
+PI;;páli
+PL;;polaco
+PT;;português
+PS;;afegão (pastó)
 QU;;quíchua
-RM;;Romêno
-RO;;Romeno
-RN;;rundi
-RU;;Russo
+RM;;romanche (reto-romanche)
+RO;;romeno
+RN;;kirundi (língua rundi)
+RU;;russo
 SG;;sango
-SA;;Sans serif
-SI;;Vietnamita
-SK;;Eslovaco
-SL;;Eslovêno
-SE;;northern sami
-SM;;Samoan
-SN;;Shona
+SA;;sânscrito
+SI;;cingalês
+SK;;eslovaco
+SL;;eslovêno
+SE;;sami setentrional
+SM;;samoano
+SN;;xona
 SD;;sindi
 SO;;somali
-ST;;soto, do sul
-ES;;Espanhol; Castelhano
-SC;;Macedônio
-SR;;Sérvio
-SS;;swati
+ST;;sesoto
+ES;;espanhol; castelhano
+SC;;sardo
+SR;;sérvio
+SS;;suázi
 SU;;sundanês
 SW;;suaíli
-SV;;Sueco
-TY;;Letão
-TA;;Tailandês
-TT;;tatar
-TE;;telugu
-TG;;Tailandês
-TL;;Tagalog
-TH;;Tailandês
+SV;;sueco
+TY;;taitiano
+TA;;tâmil
+TT;;tartaro
+TE;;telugo
+TG;;tajique
+TL;;tagalog (filipino)
+TH;;tailandês
 BO;;tibetano
-TI;;Turco
-TO;;tonga (ilhas tonga)
-TN;;tswana
+TI;;tigrínia
+TO;;tonganês
+TN;;tsuana
 TS;;tsonga
-TK;;turcomano
-TR;;Turco
-TW;;twi
-UG;;uighur
-UK;;Ucraniano
+TK;;turcomeno
+TR;;turco
+TW;;twi (língua axante)
+UG;;uigure
+UK;;ucraniano
 UR;;urdu
 UZ;;usbeque
 VE;;venda
-VI;;Vietnamita
-VO;;Volapük
+VI;;vietnamita
+VO;;volapuque (volapük)
 CY;;galês
-WA;;walloon
-WO;;uolofe
-XH;;xosa
-YI;;iídiche
-YO;;ioruba
-ZA;;Zhuang; Chuang
+WA;;valão
+WO;;uólofe
+XH;;xhosa
+YI;;ídiche
+YO;;iorubá
+ZA;;zhuang
 ZU;;zulu
